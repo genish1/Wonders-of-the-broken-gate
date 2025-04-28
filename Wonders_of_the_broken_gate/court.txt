@@ -1,0 +1,26 @@
+help 
+look 
+take LuminaraSword
+go east
+drop LuminaraSword
+go north
+take Beamer
+charge Beamer
+back
+go down
+go north-west
+take Key
+go south-west
+drop Key
+go south 
+go south
+back
+go east
+go east
+eat VitalisCookie
+inventory
+go east
+go down
+go east
+back
+fire Beamer

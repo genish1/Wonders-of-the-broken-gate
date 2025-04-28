@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ La\ classe\ CommandWords\ permet\ de\ stocker\ toutes\ les\ commandes,\ d'avoir\ la\ liste\ des\ commandes\ et\ de\ v\u00E9rifier\ si\ une\ commande\ est\ dans\ la\ liste.\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructor\ -\ initialise\ the\ command\ words.\r\n
+comment2.params=pString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ Check\ whether\ a\ given\ String\ is\ a\ valid\ command\ word.\ \r\n\ @param\ pString\ La\ commande\ a\ v\u00E9rifier.\r\n\ @return\ true\ if\ a\ given\ string\ is\ a\ valid\ command,\r\n\ false\ if\ it\ isn't.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandList()
+comment3.text=\r\n\ Permet\ d'avoir\ toutes\ les\ commandes\ dans\ une\ chaine\ de\ caract\u00E8re.\r\n\ @return\ la\ chaine\ de\ caract\u00E8re.\r\n
+numComments=4

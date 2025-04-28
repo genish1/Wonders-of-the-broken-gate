@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ Cette\ classe\ Door\ permet\ de\ cr\u00E9er\ une\ porte\ et\ de\ la\ manipuler\r\n\r\n@author\ KUCH\r\n
+comment1.params=
+comment1.target=Door()
+comment1.text=\r\n\ Cr\u00E9er\ le\ porte,et\ l'item\ permettant\ de\ l'ouvrir\ et\ l'initialise\ ferm\u00E9e.\r\n
+comment2.params=
+comment2.target=void\ setDoorOpen()
+comment2.text=\r\n\ Ouvre\ la\ porte.\r\n
+comment3.params=
+comment3.target=boolean\ CanBeOpen()
+comment3.text=\r\n\ Permet\ de\ savoir\ si\ la\ porte\ est\ ferm\u00E9e.\r\n\ @return\ vrai\ si\ la\ porte\ n'est\ pas\ ferm\u00E9e\r\n
+numComments=4

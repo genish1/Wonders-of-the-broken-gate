@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\nBeamer\ est\ un\ item\ qui\ permet\ de\ se\ t\u00E9l\u00E9porter\ \u00E0\ l'endroit\ qu'on\ a\ sauvgard\u00E9.\r\n\r\n@author\ KUCH\r\n\ \r\n
+comment1.params=pNom\ pDescription\ pPoids
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Permet\ de\ cr\u00E9er\ le\ beamer.\r\n\ @param\ pNom\ le\ nom\ de\ l'item\ donc\ Beamer.\r\n\ @param\ pDescription\ la\ description\ de\ Beamer.\r\n\ @param\ pPoids\ le\ poids\ de\ Beamer.\r\n
+comment2.params=
+comment2.target=boolean\ HasCharge()
+comment2.text=\r\n\ Permet\ de\ savoir\ si\ il\ reste\ une\ charge.\r\n\ @return\ vrai\ si\ il\ en\ reste\ une.\r\n
+comment3.params=
+comment3.target=boolean\ isCharge()
+comment3.text=\r\n\ Permet\ de\ savoir\ si\ on\ a\ sauvgard\u00E9\ la\ salle.\r\n\ @return\ vrai\ si\ oui.\r\n
+comment4.params=pRoom
+comment4.target=void\ charge(Room)
+comment4.text=\r\n\ Permet\ de\ sauvgarder\ la\ salle.\r\n\ @param\ pRoom\ La\ salle\ qu'on\ veut\ enregistrer.\r\n
+comment5.params=
+comment5.target=void\ fire()
+comment5.text=\r\n\ Permet\ de\ tirer\ et\ donc\ de\ vider\ le\ chargeur.\r\n
+comment6.params=
+comment6.target=Room\ getRoomSave()
+comment6.text=\r\n\ Permet\ de\ savoir\ la\ salle\ qu'on\ a\ enregistr\u00E9.\r\n\ @return\ La\ salle\ enregistr\u00E9.\r\n
+numComments=7

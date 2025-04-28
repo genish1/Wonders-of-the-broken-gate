@@ -1,0 +1,32 @@
+go north-east
+take Beamer
+charge Beamer
+go south
+go down
+go north-west
+take Key
+go south-west
+drop Key
+go south
+go south
+take Portal3
+back
+back
+back
+go east
+eat VitalisCookie
+go east
+take Portal1
+go down
+go down
+go east
+go south-east
+go east
+take Portal2
+fire Beamer
+drop Portal1
+drop Portal2
+drop Portal3
+go home 
+help
+go home

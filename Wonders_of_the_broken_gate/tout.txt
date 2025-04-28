@@ -1,0 +1,59 @@
+help
+take LuminaraSword
+drop LuminaraSword
+go east
+back
+go north-east
+take Beamer
+charge Beamer
+back
+go east
+go down
+go north-west
+take Key
+go south-west
+go south
+drop Key
+go south
+go south
+take Portal3
+back
+back
+back
+go east
+eat VitalisCookie
+Inventory
+look
+go east
+take Portal1
+go down 
+go east
+back
+go east
+fire Beamer
+drop Portal1
+drop Portal3
+go home
+go south
+go down
+go east
+go east
+go down
+go down
+go east
+go south-east
+go east
+take Portal2
+back
+back
+back
+back
+back
+back
+back
+back
+back
+drop Portal2
+go home
+help
+go home

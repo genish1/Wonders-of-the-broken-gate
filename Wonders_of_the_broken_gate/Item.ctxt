@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Classe\ Item\ -\ Permet\ de\ cr\u00E9er\ un\ item,\ un\ item\ est\ fabriqu\u00E9\ par\ son\ nom,sa\ description\ et\ son\ poids.\r\n\r\n\ @author\ Kuch\r\n\ @version\ 7.26.1\r\n
+comment1.params=pItemNom\ pItemDescription\ pItemPoids
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructeur\ naturel\ d'un\ Item.\r\n\ \r\n\ @param\ pItemNom\ Nom\ de\ l'item.\r\n\ @param\ pItemDescription\ Description\ de\ l'item.\r\n\ @param\ pItemPoids\ Poids\ de\ l'item.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment2.text=\r\n\ Permet\ d'acc\u00E9der\ au\ nom\ de\ l'item.\r\n\ @return\ envoie\ le\ nom\ de\ l'item.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getItemDescription()
+comment3.text=\r\n\ Permet\ d'acc\u00E9der\ \u00E0\ la\ description\ de\ l'item.\r\n\ @return\ envoie\ la\ description\ de\ l'item.\r\n
+comment4.params=
+comment4.target=int\ getItemWeight()
+comment4.text=\r\n\ Permet\ d'acc\u00E9der\ au\ poids\ de\ l'item.\r\n\ @return\ envoie\ le\ poids\ de\ l'item.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemLongDescription()
+comment5.text=\r\n\ Permet\ d'acc\u00E9der\ \u00E0\ toutes\ les\ informations\ de\ l'item.\r\n\ @return\ envoie\ le\ nom,le\ poids\ et\ la\ description\ l'item.\r\n
+numComments=6

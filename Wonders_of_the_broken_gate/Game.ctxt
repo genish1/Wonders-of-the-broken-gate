@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Classe\ Game\ -\ Permet\ de\ cr\u00E9er\ une\ partie\ et\ son\ interface\ graphique.\r\n\ @author\ Kuch\ \r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Cr\u00E9ez\ le\ jeu\ et\ initialisez\ sa\ carte\ interne.\ Cr\u00E9ez\ l'interface\ et\ cr\u00E9ez\ un\ lien\ vers\ celle-ci.\r\n
+numComments=2

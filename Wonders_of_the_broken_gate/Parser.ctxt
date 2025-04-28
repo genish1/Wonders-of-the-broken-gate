@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\r\n\ Cr\u00E9er\ un\ nouveau\ Parser.\r\n
+comment2.params=pInputLine
+comment2.target=Command\ getCommand(java.lang.String)
+comment2.text=\r\n\ Permet\ d'avoir\ une\ commande\ avec\ le\ message\ que\ le\ joueur\ tape\ au\ clavier.\r\n\ @param\ pInputLine\ Ce\ que\ le\ joueur\ \u00E9crit.\r\n\ @return\ La\ commande\ demand\u00E9\ si\ elle\ existe.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandString()
+comment3.text=\r\n\ Permet\ d'avoir\ la\ liste\ des\ commandes.\r\n\ @return\ Une\ String\ de\ la\ liste\ des\ commandes.\r\n
+numComments=4
